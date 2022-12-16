@@ -1,4 +1,4 @@
-﻿id,fecha,campana,cuenta,tipo,texto
+﻿id,fecha,campana,cuenta,tipo,text
 1,1518307538,Campaña 1,Instagram,Imagen,ðŸ˜ðŸ˜˜ðŸ¤—
 2,1517885822,Campaña 1,Instagram,Video,fuimos con tu abueli .... sÃºper lindo! Te echamos de menos Nasti 
 3,1517914018,Campaña 2,Instagram,Texto,"Lindo, sigan subiendo."
@@ -102,4 +102,4 @@
 101,1504225662,Campaña 19,Facebook,Video,pensÃ© lo mismo x)
 102,1504226557,Campaña 19,Instagram,Imagen,Jajaja q ridÃ­culo
 103,1504554014,Campaña 20,Facebook,Texto,Que anda haciendo en Valpo amiga?
-,1503587498,Campaña 20,Facebook,Video,
+104,1503587498,Campaña 20,Facebook,Video,Esta divertido este video
